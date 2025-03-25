@@ -4,6 +4,14 @@ All the wonderful individuals that helped contribute to this mod in some way!
 
 ---
 
+### SPRITE CONTRIBUTORS
+#### - Artists that created the seed sprites used in a public release of the mod
+> **The Seeds Guy**  
+➤ [7eventy7](https://7eventy7.github.io/)
+
+> **The Seed Saint**  
+➤ [Countess Sage](add-link)
+
 ### ASSET ATTRIBUTION 
 #### - Authors that allowed me to use their assets as a basis for the new sprites
 

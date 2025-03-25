@@ -6,9 +6,6 @@
 
 This Stardew Valley mod retextures seeds, starters, and saplings from over twenty-five different mods into uniform sleeves, satchels, stashes, and sacks. It's time to enhance your farming experience with a completely visually unified inventory! Choose from sensible designs featuring well-established color palettes, or seasonal variations that reflect the hues of the current season. All variants also include intuitive icons for trellis and bush seeds, indicating which plants cannot be walked through. The mod also includes four color options for the sacks that saplings are held in. Use the cream color option if you want sapling sacks that match with sensible stashes. Every single component is heavily customizable, including various configurable categories that can be toggled off and on at will. The extensive support and functionality of this mod have been made possible through the generous collaboration and willingness of other mod authors to share their assets. Please view the images for packet variants, sapling sack colors, and other comparative references.
 
-> ### *I've easily spent over 100 hours making and updating this mod.*
-> ##### *Please leave your support on the modpages!*
-
 ---
 
 ![d-changelog](https://github.com/7eventy7/Standardized-Seed-Sprites/assets/75962770/b2ca18c6-9e68-4b38-a39a-935e5cb61e3b)
@@ -164,10 +161,12 @@ Additionally Supported Languages:
 
 ![d-additional](https://github.com/7eventy7/Standardized-Seed-Sprites/assets/75962770/f27f3f5c-323b-47af-ab5f-e82ed3ac1e61)
 
+### Please join our discord server if you'd like to contribute: https://discord.gg/pnVG44jBh2
+- Whether it's through suggestions, bug reports, additions, or helping maintain this project, any help is greatly appreciated!
+
 ### Other Mods That Pair Well:
 - [Bonster's Crops Restyled](https://www.nexusmods.com/stardewvalley/mods/24864)
 - [Passable Crops](https://www.nexusmods.com/stardewvalley/mods/15223)
-
 
 
 > Please submit any issues, feedback, suggestions, or mods you would like to see support added for.
