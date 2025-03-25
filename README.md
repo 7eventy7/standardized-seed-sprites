@@ -162,8 +162,7 @@ Additionally Supported Languages:
 ![d-additional](https://github.com/7eventy7/Standardized-Seed-Sprites/assets/75962770/f27f3f5c-323b-47af-ab5f-e82ed3ac1e61)
 
 ### Please join our discord server if you'd like to contribute: https://discord.gg/pnVG44jBh2
-- Whether it's through suggestions, bug reports, additions, or helping maintain this project, any help is greatly appreciated!
-
+- Come offer your suggestions, bug reports, additions, or help maintaining this project!
 ### Other Mods That Pair Well:
 - [Bonster's Crops Restyled](https://www.nexusmods.com/stardewvalley/mods/24864)
 - [Passable Crops](https://www.nexusmods.com/stardewvalley/mods/15223)
