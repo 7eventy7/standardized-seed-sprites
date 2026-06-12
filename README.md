@@ -47,10 +47,9 @@ This Stardew Valley mod retextures seeds, starters, and saplings from over twent
 
 ### **Stardew Valley v1.6.0+ on Linux, Mac, and Windows**
 - Extensively configurable toggles for Generic Mod Config Menu
+- Over 500 base sprites not including variant options
 
 ## 24 Different Mods Currently Supported:
-
-### **Over 500 Included Sprites::**
 - [Vanilla](https://www.stardewvalley.net/)
 - [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)
 - [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
