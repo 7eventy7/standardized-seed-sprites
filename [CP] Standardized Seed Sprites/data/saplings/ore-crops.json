@@ -1,0 +1,29 @@
+// ITEM COUNT: 1
+{
+    "Changes": [
+        // Geode Tree Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Donnie24.OreCrops\\seeds",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-ore-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Ore Crops": "true"
+            }
+        }
+    ]
+}

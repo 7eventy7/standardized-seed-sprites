@@ -1,0 +1,59 @@
+// ITEM COUNT: 3
+{
+    "Changes": [
+        // Juniper Berry Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.ilucie.wintercrops\\JuniperBerrySeeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ilucie-winter-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ilucie Winter Crops": "true"
+            }
+        },
+        // Radicchio Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.ilucie.wintercrops\\RadicchioSeeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ilucie-winter-crops.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ilucie Winter Crops": "true"
+            }
+        },
+        // Turnip Seeds
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.ilucie.wintercrops\\TurnipSeeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ilucie-winter-crops.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ilucie Winter Crops": "true"
+            }
+        }
+    ]
+}

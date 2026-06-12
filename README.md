@@ -6,7 +6,7 @@
 
 This Stardew Valley mod retextures seeds, starters, and saplings from over twenty-five different mods into uniform sleeves, satchels, stashes, and sacks. It's time to enhance your farming experience with a completely visually unified inventory! Choose from sensible designs featuring well-established color palettes, or seasonal variations that reflect the hues of the current season. All variants also include intuitive icons for trellis and bush seeds, indicating which plants cannot be walked through. The mod also includes four color options for the sacks that saplings are held in. Use the cream color option if you want sapling sacks that match with sensible stashes. Every single component is heavily customizable, including various configurable categories that can be toggled off and on at will. The extensive support and functionality of this mod have been made possible through the generous collaboration and willingness of other mod authors to share their assets. Please view the images for packet variants, sapling sack colors, and other comparative references.
 
-> ### *I've easily spent over 100 hours making and updating this mod.*
+> ### *I've easily spent hundreds of hours making and updating this mod.*
 > ##### *Please leave your support on the modpages!*
 
 ---
@@ -48,56 +48,34 @@ This Stardew Valley mod retextures seeds, starters, and saplings from over twent
 ### **Stardew Valley v1.6.0+ on Linux, Mac, and Windows**
 - Extensively configurable toggles for Generic Mod Config Menu
 
-## 26 Different Mods Currently Supported:
+## 24 Different Mods Currently Supported:
 
-### **463 Included Seed Sprites:**
-- **A** - [Vanilla](https://www.stardewvalley.net/) (51)
-- **B** - [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753) (8)
-- **C** - [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787) (4)
-- **D** - [Visit Mount Vapius](https://www.nexusmods.com/stardewvalley/mods/9600) (35)
-- **E** - [Serene Meadow](https://www.nexusmods.com/stardewvalley/mods/20598) (25)
-- **F** - [Growable Forage](https://www.nexusmods.com/stardewvalley/mods/20340) (14)
-- **G** - [Cornucopia Crops](https://www.nexusmods.com/stardewvalley/mods/19508) (59)
-- **H** - [Cornucopia Herbs](https://www.nexusmods.com/stardewvalley/mods/19508) (21)
-- **I** - [Cornucopia Flowers](https://www.nexusmods.com/stardewvalley/mods/20290) (43)
-- **J** - [Ilucie's Winter Crops](https://www.nexusmods.com/stardewvalley/mods/22575) (2)
-- **K** - [Flower Garden 2](https://www.nexusmods.com/stardewvalley/mods/16999) (22)
-- **L** - [Grapes of Ferngill](https://www.nexusmods.com/stardewvalley/mods/8684) (11)
-- **M** - [Atelier Goods Forager](https://www.nexusmods.com/stardewvalley/mods/22728) (45)
-- **N** - [Garden Variety Mixed Seeds](https://www.nexusmods.com/stardewvalley/mods/21133) (4)
-- **O** - [Forage of Ferngill](https://www.nexusmods.com/stardewvalley/mods/8828) (19)
-- **P** - [Grains Overhull](https://www.nexusmods.com/stardewvalley/mods/20884) (6)
-- **Q** - [Bonster Crops Combined](https://www.nexusmods.com/stardewvalley/mods/22490) (54)
-- **R** - [Uncle Iroh Tea](https://www.nexusmods.com/stardewvalley/mods/22376) (8)
-- **S** - [Polyamory Sweet](https://www.nexusmods.com/stardewvalley/mods/20599) (1)
-- **T** - [Ore Crops](https://www.nexusmods.com/stardewvalley/mods/22219) (7)
-- **U** - [Tahla Crops](https://www.nexusmods.com/stardewvalley/mods/20639) (7)
-- **V** - [Mildkewy Food Starter](https://www.nexusmods.com/stardewvalley/mods/22942) (3)
-- **W** - [Tobacco and Hemp](https://www.nexusmods.com/stardewvalley/mods/24158) (2)
-- **Y** - [Adventurer Guild Expanded](https://www.nexusmods.com/stardewvalley/mods/22591) (2)
-- **Z** - [Distant Lands](https://www.nexusmods.com/stardewvalley/mods/18109) (2)
-- **A²** - [Magical Crops](https://www.nexusmods.com/stardewvalley/mods/8762) (8)
-
-
-### **162 Included Sapling Sprites:**
-- **A** - [Vanilla](https://www.stardewvalley.net/) (8)
-- **C** - [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787) (1)
-- **D** - [Visit Mount Vapius](https://www.nexusmods.com/stardewvalley/mods/9600) (5)
-- **E** - [Serene Meadow](https://www.nexusmods.com/stardewvalley/mods/20598) (1)
-- **F** - [Growable Forage](https://www.nexusmods.com/stardewvalley/mods/20340) (2)
-- **G** - [Cornucopia Crops](https://www.nexusmods.com/stardewvalley/mods/19508) (23)
-- **H** - [Cornucopia Herbs](https://www.nexusmods.com/stardewvalley/mods/19508) (5)
-- **I** - [Cornucopia Flowers](https://www.nexusmods.com/stardewvalley/mods/20290) (5)
-- **K** - [Flower Garden 2](https://www.nexusmods.com/stardewvalley/mods/16999) (4)
-- **L** - [Grapes of Ferngill](https://www.nexusmods.com/stardewvalley/mods/8684) (2)
-- **M** - [Atelier Goods Forager](https://www.nexusmods.com/stardewvalley/mods/22728) (23)
-- **O** - [Forage of Ferngill](https://www.nexusmods.com/stardewvalley/mods/8828) (2)
-- **Q** - [Bonster Crops Combined](https://www.nexusmods.com/stardewvalley/mods/22490) (68)
-- **R** - [Uncle Iroh Tea](https://www.nexusmods.com/stardewvalley/mods/22376) (1)
-- **T** - [Ore Crops](https://www.nexusmods.com/stardewvalley/mods/22219) (1)
-- **U** - [Tahla Crops](https://www.nexusmods.com/stardewvalley/mods/20639) (1)
-- **V** - [Mildkewy Food Starter](https://www.nexusmods.com/stardewvalley/mods/22942) (2)
-- **X** - [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) (8)
+### **Over 500 Included Sprites::**
+- [Vanilla](https://www.stardewvalley.net/)
+- [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)
+- [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
+- [Visit Mount Vapius](https://www.nexusmods.com/stardewvalley/mods/9600)
+- [Serene Meadow](https://www.nexusmods.com/stardewvalley/mods/20598)
+- [Growable Forage](https://www.nexusmods.com/stardewvalley/mods/20340)
+- [Cornucopia Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
+- [Cornucopia Herbs](https://www.nexusmods.com/stardewvalley/mods/19508)
+- [Cornucopia Flowers](https://www.nexusmods.com/stardewvalley/mods/20290)
+- [Ilucie's Winter Crops](https://www.nexusmods.com/stardewvalley/mods/22575)
+- [Flower Garden 2](https://www.nexusmods.com/stardewvalley/mods/16999)
+- [Grapes of Ferngill](https://www.nexusmods.com/stardewvalley/mods/8684)
+- [Atelier Goods Forager](https://www.nexusmods.com/stardewvalley/mods/22728)
+- [Grains Overhull](https://www.nexusmods.com/stardewvalley/mods/20884)
+- [Uncle Iroh Tea](https://www.nexusmods.com/stardewvalley/mods/22376)
+- [Polyamory Sweet](https://www.nexusmods.com/stardewvalley/mods/20599)
+- [Ore Crops](https://www.nexusmods.com/stardewvalley/mods/22219)
+- [Tahla Crops](https://www.nexusmods.com/stardewvalley/mods/20639)
+- [Mildkewy Food Starter](https://www.nexusmods.com/stardewvalley/mods/22942)
+- [Tobacco and Hemp](https://www.nexusmods.com/stardewvalley/mods/24158)
+- [Adventurer Guild Expanded](https://www.nexusmods.com/stardewvalley/mods/22591)
+- [Distant Lands](https://www.nexusmods.com/stardewvalley/mods/18109)
+- [Magical Crops](https://www.nexusmods.com/stardewvalley/mods/8762)
+- [Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/11111)
+- [Lunna Astray](https://www.nexusmods.com/stardewvalley/mods/6626)
 
 ---
 

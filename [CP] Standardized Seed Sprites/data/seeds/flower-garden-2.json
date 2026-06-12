@@ -1,0 +1,537 @@
+// ITEM COUNT: 18
+{
+    "Changes": [
+        // Amaryllis Bulb
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Calla Lily Bulb
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Carnation Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Dahlia Tuber
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Season": "spring, winter",
+                "Flower Garden 2": "true"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Season": "summer, fall",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Delphinium Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Freesia Corm
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Fritillaria Bulb
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Iris Bulb
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Season": "spring, winter",
+                "Flower Garden 2": "true"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Season": "summer",
+                "Flower Garden 2": "true"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Season": "fall",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Jasmine Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Lavender Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Lily Bulb
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 160,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Season": "spring, summer, winter",
+                "Flower Garden 2": "true"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 160,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Season": "fall",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Orchid Seedling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Pansy Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 192,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Peony Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Rose Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 224,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Snapdragon Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 240,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Striped Squill Bulb
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Zinnia Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-flower-garden-2.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        }
+    ]
+}

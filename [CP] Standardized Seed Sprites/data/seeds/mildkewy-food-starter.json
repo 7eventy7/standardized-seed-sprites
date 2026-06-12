@@ -1,0 +1,59 @@
+// ITEM COUNT: 3
+{
+    "Changes": [
+        // Beef Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\mildkewy.foodstarter\\BeefSeed",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-mildkewy-food-starter.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Mildkewy Food Starter": "true"
+            }
+        },
+        // Chicken Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\mildkewy.foodstarter\\ChickenSeed",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-mildkewy-food-starter.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Mildkewy Food Starter": "true"
+            }
+        },
+        // Pork Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\mildkewy.foodstarter\\PorkSeed",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-mildkewy-food-starter.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Mildkewy Food Starter": "true"
+            }
+        }
+    ]
+}

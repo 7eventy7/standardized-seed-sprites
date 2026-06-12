@@ -1,0 +1,125 @@
+// ITEM COUNT: 5
+{
+    "Changes": [
+        // Casalotier Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Frost Apple Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Larimar Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Olive Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Trellis Grape Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        }
+    ]
+}

@@ -1,0 +1,655 @@
+// ITEM COUNT: 27
+{
+    "Changes": [
+        // Baby Boo Squash Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Blue Flame Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Borage Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Butterfly Lavender Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Cornflower Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Dahlia Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Forget Me Not Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Fuchsia Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Giant Fern Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Giant Snowdrop Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Giant Spring Bells Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Golden Calendula Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Lilac Pansy Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Mixed Meadow Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Mixed Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Pink Clematis Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Pink Hollyhock Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Purple Flame Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Purple Iris Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Purple Pansy Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Romanesco Cabbage Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Spotted Orchis Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Sugar Plum Foxglove Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Tall Mallow Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Tropaeolum Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Void Lily Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Willowherb Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        },
+        // Winter Blue Iris Bulb
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-serene-meadow.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        }
+    ]
+}

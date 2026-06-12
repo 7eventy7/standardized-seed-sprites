@@ -1,0 +1,125 @@
+// ITEM COUNT: 5
+{
+    "Changes": [
+        // Camphor Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 240,
+                "Y": 336,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Cornucopia Herbs": "true"
+            }
+        },
+        // Cinnamon Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 304,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Cornucopia Herbs": "true"
+            }
+        },
+        // Eucalyptus Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 304,
+                "Y": 336,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Cornucopia Herbs": "true"
+            }
+        },
+        // Melaleuca Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 352,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Cornucopia Herbs": "true"
+            }
+        },
+        // Nutmeg Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 336,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Cornucopia Herbs": "true"
+            }
+        }
+    ]
+}

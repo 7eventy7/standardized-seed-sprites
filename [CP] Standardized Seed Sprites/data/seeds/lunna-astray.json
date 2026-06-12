@@ -1,0 +1,125 @@
+// ITEM COUNT: 5
+{
+    "Changes": [
+        // Eggroot Seeds
+        {
+            "Action": "EditImage",
+            "Target": "LASV/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-lunna-astray.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Lunna Astray": "true"
+            }
+        },
+        // Ghost Cabbage
+        {
+            "Action": "EditImage",
+            "Target": "LASV/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-lunna-astray.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Lunna Astray": "true"
+            }
+        },
+        // Pale Berry
+        {
+            "Action": "EditImage",
+            "Target": "LASV/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-lunna-astray.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Lunna Astray": "true"
+            }
+        },
+        // Sour Potato
+        {
+            "Action": "EditImage",
+            "Target": "LASV/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-lunna-astray.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Lunna Astray": "true"
+            }
+        },
+        // Thorn Pepper
+        {
+            "Action": "EditImage",
+            "Target": "LASV/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-lunna-astray.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Lunna Astray": "true"
+            }
+        }
+    ]
+}

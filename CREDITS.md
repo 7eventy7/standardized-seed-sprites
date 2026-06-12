@@ -4,6 +4,15 @@ All the wonderful individuals that helped contribute to this mod in some way!
 
 ---
 
+## ARTIST ATTRIBUTION
+> **Mod Author**  
+➤ 7eventy7
+
+> **Supporting Work**  
+➤ Saint Sage
+
+---
+
 ### ASSET ATTRIBUTION 
 #### - Authors that allowed me to use their assets as a basis for the new sprites
 

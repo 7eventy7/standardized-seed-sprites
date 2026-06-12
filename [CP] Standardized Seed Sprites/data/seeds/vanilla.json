@@ -1,0 +1,1209 @@
+// ITEM COUNT: 51
+{
+    "Changes": [
+        // Amaranth Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Ancient Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 304,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Artichoke Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Bean Starter
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Beet Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 224,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Blueberry Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Bok Choy Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Broccoli Seed
+        {
+            "Action": "EditImage",
+            "Target": "TileSheets/Objects_2",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Cactus Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 160,
+                "Y": 528,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Carrot Seed
+        {
+            "Action": "EditImage",
+            "Target": "TileSheets/Objects_2",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Cauliflower Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 288,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Coffee Bean
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 288,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Harvest Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Corn Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Cranberry Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Eggplant Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Fairy Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 272,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Fiber Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 336,
+                "Y": 576,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Garlic Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 320,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Grape Starter
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Hops Starter
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 224,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Jazz Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 336,
+                "Y": 272,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Kale Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 336,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Melon Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 368,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Mixed Flower Seed
+        {
+            "Action": "EditImage",
+            "Target": "TileSheets/Objects_2",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Mixed Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Mixed Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 512,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Mixed Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Parsnip Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 256,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Pepper Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Pineapple Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 544,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Poppy Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 336,
+                "Y": 288,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Potato Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 304,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Powdermelon Seed
+        {
+            "Action": "EditImage",
+            "Target": "TileSheets/Objects_2",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Pumpkin Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 160,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Radish Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Rare Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 224,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Red Cabbage Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Rhubarb Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 352,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Rice Shoot
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 176,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Spangle Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 368,
+                "Y": 288,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Starfruit Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Strawberry Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 496,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Summer Squash Seed
+        {
+            "Action": "EditImage",
+            "Target": "TileSheets/Objects_2",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Sunflower Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 368,
+                "Y": 272,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Harvest Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Taro Tuber
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 240,
+                "Y": 544,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Tea Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Tea Sapling Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Tomato Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Tulip Bulb
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 304,
+                "Y": 272,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Wheat Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Wild Fall Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Wild Spring Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 240,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Wild Summer Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 256,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Wild Winter Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 288,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        },
+        // Yam Seed
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-vanilla.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 192,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Vanilla": "true"
+            }
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+// ITEM COUNT: 1
+{
+    "Changes": [
+        // Cassia Sapling
+        {
+            "Action": "EditImage",
+            "Target": "slimerrain.uncleirohapprovedteacp/Saplings",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-uncle-iroh-tea.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Uncle Iroh Tea": "true"
+            }
+        }
+    ]
+}

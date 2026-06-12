@@ -1,0 +1,101 @@
+// ITEM COUNT: 4
+{
+    "Changes": [
+        // Alamanda Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-flower-garden-2.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Gardenia Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-flower-garden-2.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Hibiscus Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-flower-garden-2.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        },
+        // Lilac Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\PC.QL.FlowerGarden2\\Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-flower-garden-2.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Flower Garden 2": "true"
+            }
+        }
+    ]
+}

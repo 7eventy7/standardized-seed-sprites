@@ -1,0 +1,852 @@
+// ITEM COUNT: 35
+{
+    "Changes": [
+        // Balmcreek Carillon Rhizome
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Basil Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Blue Clover Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Blue Morning Glory Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Cloud Feather
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Comet Roots Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Constellated Watermelon Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Copper's Reed Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Cosmos Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Elfcup Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Fire Beans Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Fugucine Tuber
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Galaxy Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Goblin's Gentian Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Hellebore Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Lamb's Lettuce Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Moon Pod
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Mountain Meadow Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Mixed Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Neralbane Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Night Miscanthus Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Nymphea Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Pink Morning Glory Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Pixie Bell Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Mixed Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Primrose Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Red Bouquet Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Ringfruit Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Rye Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Star Shaped Flower Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Sunroot Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Sweet Myriadin Bulb
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Tagetes Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Velvet Iris Rhizome
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Wild Vapius Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Mixed Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Woodgoat Mushroom Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        },
+        // Wood Silk Flower Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.MtVapius\\Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-visit-mount-vapius.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Visit Mount Vapius": "true"
+            }
+        }
+    ]
+}

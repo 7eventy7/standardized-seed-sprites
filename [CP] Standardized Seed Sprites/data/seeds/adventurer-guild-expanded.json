@@ -1,0 +1,53 @@
+// ITEM COUNT: 2
+{
+    "Changes": [
+        // Slime Heart Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\supert.adventureguildexpanded\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-adventurer-guild-expanded.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Adventurer Guild Expanded": "true"
+            }
+        },
+        // Zinnia Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\supert.adventureguildexpanded\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-adventurer-guild-expanded.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Adventurer Guild Expanded": "true"
+            }
+        }
+    ]
+}

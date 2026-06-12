@@ -2,6 +2,26 @@
 
 Check out what has been added or changed from every single version ever released!
 
+## [Version 2.3.0](https://github.com/7eventy7/Standardized-Seed-Sprites/releases/tag/v2.3.0)
+### Added
+- New /data directory to split content.json into seperate files per mod
+- Updated sprites for all currently supported mods
+- New toggle for "Harvest Seed Sprites"
+- Support for "Sunberry Village"
+- Support for "Lunna Astray"
+
+### Changed
+- "Atelier Goods Forage" renamed to be "Atelier Goods Expansion" in the backend
+- "Growable Forage" renamed to be "Cornucopia Forage" in the backend
+- Several older sprites reworked to match the newer aesthetic
+- Translations to include all the new sections
+
+### Removed
+- Lettering associated with each mod
+- Support for "Garden Variety Mixed Seeds"
+- Support for "Bonster Combined Crops"
+- Support for "Forage of Ferngill"
+
 ## [Version 2.2.0](https://github.com/7eventy7/Standardized-Seed-Sprites/releases/tag/v2.2.0)
 ### Added
 - Support for "Ridgeside Village"
@@ -16,7 +36,7 @@ Check out what has been added or changed from every single version ever released
 - Pathing for assets to be simpler
 - Formatting of various toggles and config settings
 - "Modules" are now using a single entry per sprite
-- "Translations" to Include New Sections
+- Translations to include all the new sections
 
 ### Removed
 - Toggles for each individual sprite

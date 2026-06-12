@@ -1,0 +1,53 @@
+// ITEM COUNT: 2
+{
+    "Changes": [
+        // Umuwi Lanzones Sapling
+        {
+            "Action": "EditImage",
+            "Target": "LASV/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-lunna-astray.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Lunna Astray": "true"
+            }
+        },
+        // Umuwi Rambutan Sapling
+        {
+            "Action": "EditImage",
+            "Target": "LASV/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-lunna-astray.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Lunna Astray": "true"
+            }
+        }
+    ]
+}

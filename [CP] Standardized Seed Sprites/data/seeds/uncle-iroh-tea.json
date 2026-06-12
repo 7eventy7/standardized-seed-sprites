@@ -1,0 +1,223 @@
+// ITEM COUNT: 9
+{
+    "Changes": [
+        // Chamomile Seed
+        {
+            "Action": "EditImage",
+            "Target": "slimerrain.uncleirohapprovedteacp/Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-uncle-iroh-tea.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Uncle Iroh Tea": "true"
+            }
+        },
+        // Chrysanthemum Seed
+        {
+            "Action": "EditImage",
+            "Target": "slimerrain.uncleirohapprovedteacp/Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-uncle-iroh-tea.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Uncle Iroh Tea": "true"
+            }
+        },
+        // Goji Berry Seed
+        {
+            "Action": "EditImage",
+            "Target": "slimerrain.uncleirohapprovedteacp/Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-uncle-iroh-tea.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Uncle Iroh Tea": "true"
+            }
+        },
+        // Jasmine Sapling
+        {
+            "Action": "EditImage",
+            "Target": "slimerrain.uncleirohapprovedteacp/Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-uncle-iroh-tea.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Tea Sapling Sprites": "Enabled",
+                "Uncle Iroh Tea": "true"
+            }
+        },
+        // Lavender Seed
+        {
+            "Action": "EditImage",
+            "Target": "slimerrain.uncleirohapprovedteacp/Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-uncle-iroh-tea.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Uncle Iroh Tea": "true"
+            }
+        },
+        // Lily Bulb
+        {
+            "Action": "EditImage",
+            "Target": "slimerrain.uncleirohapprovedteacp/Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-uncle-iroh-tea.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Uncle Iroh Tea": "true"
+            }
+        },
+        // Lotus Seed
+        {
+            "Action": "EditImage",
+            "Target": "slimerrain.uncleirohapprovedteacp/Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-uncle-iroh-tea.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Uncle Iroh Tea": "true"
+            }
+        },
+        // Osmanthus Sapling
+        {
+            "Action": "EditImage",
+            "Target": "slimerrain.uncleirohapprovedteacp/Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-uncle-iroh-tea.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Tea Sapling Sprites": "Enabled",
+                "Uncle Iroh Tea": "true"
+            }
+        },
+        // Sugarcane Seed
+        {
+            "Action": "EditImage",
+            "Target": "slimerrain.uncleirohapprovedteacp/Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-uncle-iroh-tea.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Uncle Iroh Tea": "true"
+            }
+        }
+    ]
+}

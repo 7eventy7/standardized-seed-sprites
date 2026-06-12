@@ -1,0 +1,29 @@
+// ITEM COUNT: 1
+{
+    "Changes": [
+        // Lilac Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lumisteria.SereneMeadow\\Seeds",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-serene-meadow.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Serene Meadow": "true"
+            }
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+// ITEM COUNT: 11
+{
+    "Changes": [
+        // Ancient Grape Starter
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.GrapesofFerngill.CP/ancient",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-grapes-of-ferngill.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Grapes of Ferngill": "true"
+            }
+        },
+        // Common Grape Starter
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.GrapesofFerngill.CP/common_grapes_starter",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-grapes-of-ferngill.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Grapes of Ferngill": "true"
+            }
+        },
+        // Deep Envy Grape Starter
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.GrapesofFerngill.CP/deep_envy",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-grapes-of-ferngill.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Grapes of Ferngill": "true"
+            }
+        },
+        // Gallant Grove Grape Starter
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.GrapesofFerngill.CP/gallant_grove",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-grapes-of-ferngill.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Grapes of Ferngill": "true"
+            }
+        },
+        // Golden Aura Grape Starter
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.GrapesofFerngill.CP/golden_aura",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-grapes-of-ferngill.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Grapes of Ferngill": "true"
+            }
+        },
+        // Joja Grape Starter
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.GrapesofFerngill.CP/joja",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-grapes-of-ferngill.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Grapes of Ferngill": "true"
+            }
+        },
+        // Lunatone Grape Starter
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.GrapesofFerngill.CP/lunatone",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-grapes-of-ferngill.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Grapes of Ferngill": "true"
+            }
+        },
+        // Ocean Mist Grape Starter
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.GrapesofFerngill.CP/ocean_mist",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-grapes-of-ferngill.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Grapes of Ferngill": "true"
+            }
+        },
+        // Passion Rouge Grape Starter
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.GrapesofFerngill.CP/passion_rouge",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-grapes-of-ferngill.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Grapes of Ferngill": "true"
+            }
+        },
+        // Rosy Riot Grape Starter
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.GrapesofFerngill.CP/rosy_riot",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-grapes-of-ferngill.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Grapes of Ferngill": "true"
+            }
+        },
+        // Sunset Blush Grape Starter
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.GrapesofFerngill.CP/sunset_blush",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-grapes-of-ferngill.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Grapes of Ferngill": "true"
+            }
+        }
+    ]
+}

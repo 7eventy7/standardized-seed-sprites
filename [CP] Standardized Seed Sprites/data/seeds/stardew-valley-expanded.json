@@ -1,0 +1,223 @@
+// ITEM COUNT: 12
+{
+    "Changes": [
+        //Ancient Fern Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\FlashShifter.StardewValleyExpandedCP\\Ancient Ferns Seed",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-stardew-valley-expanded.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Stardew Valley Expanded": "true"
+            }
+        },
+        // Butternut Squash Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\FlashShifter.StardewValleyExpandedCP\\Butternut Squash Seed",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-stardew-valley-expanded.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Stardew Valley Expanded": "true"
+            }
+        },
+        // Cucumber Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\FlashShifter.StardewValleyExpandedCP\\Cucumber Seed",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-stardew-valley-expanded.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Stardew Valley Expanded": "true"
+            }
+        },
+        // Fungus Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\FlashShifter.StardewValleyExpandedCP\\Fungus Seed",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-stardew-valley-expanded.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Stardew Valley Expanded": "true"
+            }
+        },
+        // Gold Carrot Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\FlashShifter.StardewValleyExpandedCP\\Gold Carrot Seed",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-stardew-valley-expanded.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Stardew Valley Expanded": "true"
+            }
+        },
+        // Joja Berry Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\FlashShifter.StardewValleyExpandedCP\\Joja Berry Starter",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-stardew-valley-expanded.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Stardew Valley Expanded": "true"
+            }
+        },
+        // Joja Veggie Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\FlashShifter.StardewValleyExpandedCP\\Joja Veggie Seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-stardew-valley-expanded.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Stardew Valley Expanded": "true"
+            }
+        },
+        // Shrub Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\FlashShifter.StardewValleyExpandedCP\\Shrub Seed",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-stardew-valley-expanded.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Stardew Valley Expanded": "true"
+            }
+        },
+        // Slime Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\FlashShifter.StardewValleyExpandedCP\\Slime Seed",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-stardew-valley-expanded.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Stardew Valley Expanded": "true"
+            }
+        },
+        // Stalk Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\FlashShifter.StardewValleyExpandedCP\\Stalk Seed",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-stardew-valley-expanded.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Stardew Valley Expanded": "true"
+            }
+        },
+        // Sweet Potato Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\FlashShifter.StardewValleyExpandedCP\\Sweet Potato Seed",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-stardew-valley-expanded.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Stardew Valley Expanded": "true"
+            }
+        },
+        // Void Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\FlashShifter.StardewValleyExpandedCP\\Void Seed",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-stardew-valley-expanded.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Stardew Valley Expanded": "true"
+            }
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+// ITEM COUNT: 7
+{
+    "Changes": [
+        // Coal Crop Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Donnie24.OreCrops\\seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ore-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ore Crops": "true"
+            }
+        },
+        // Copper Crop Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Donnie24.OreCrops\\seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ore-crops.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ore Crops": "true"
+            }
+        },
+        // Gold Crop Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Donnie24.OreCrops\\seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ore-crops.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ore Crops": "true"
+            }
+        },
+        // Gold Doubloon Plant Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Donnie24.OreCrops\\seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ore-crops.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ore Crops": "true"
+            }
+        },
+        // Iridium Crop Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Donnie24.OreCrops\\seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ore-crops.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ore Crops": "true"
+            }
+        },
+        // Iron Crop Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Donnie24.OreCrops\\seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ore-crops.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ore Crops": "true"
+            }
+        },
+        // Radioactive Crop Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Donnie24.OreCrops\\seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ore-crops.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ore Crops": "true"
+            }
+        }
+    ]
+}

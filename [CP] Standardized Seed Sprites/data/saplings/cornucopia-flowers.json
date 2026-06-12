@@ -1,0 +1,125 @@
+// ITEM COUNT: 5
+{
+    "Changes": [
+        // Hibiscus Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 208,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Cornucopia Flowers": "true"
+            }
+        },
+        // Jasmine Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 208,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Cornucopia Flowers": "true"
+            }
+        },
+        // Magnolia Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 208,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Cornucopia Flowers": "true"
+            }
+        },
+        // Wisteria Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 208,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Cornucopia Flowers": "true"
+            }
+        },
+        // Ylang Ylang Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 208,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Cornucopia Flowers": "true"
+            }
+        }
+    ]
+}

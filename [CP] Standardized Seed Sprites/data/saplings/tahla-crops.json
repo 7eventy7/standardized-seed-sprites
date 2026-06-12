@@ -1,0 +1,23 @@
+// ITEM COUNT: 1
+{
+    "Changes": [
+        // Kumquat Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\SquishyMiqoteMods.CassiesGarden\\Kumquat_sapling",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-tahla-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Tahla Crops": "true"
+            }
+        }
+    ]
+}

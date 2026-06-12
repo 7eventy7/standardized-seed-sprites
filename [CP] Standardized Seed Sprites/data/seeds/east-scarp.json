@@ -1,0 +1,101 @@
+// ITEM COUNT: 4
+{
+    "Changes": [
+        // Azure Chrysanthemum Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lemurkat.EastScarp\\esobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-east-scarp.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "East Scarp": "true"
+            }
+        },
+        // Bird of Paradise Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lemurkat.EastScarp\\esobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-east-scarp.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "East Scarp": "true"
+            }
+        },
+        // Moonflower Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lemurkat.EastScarp\\esobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-east-scarp.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "East Scarp": "true"
+            }
+        },
+        // Serruria Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Lemurkat.EastScarp\\esobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-east-scarp.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "East Scarp": "true"
+            }
+        }
+    ]
+}

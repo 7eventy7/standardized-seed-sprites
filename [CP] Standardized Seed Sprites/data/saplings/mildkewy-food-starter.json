@@ -1,0 +1,41 @@
+// ITEM COUNT: 2
+{
+    "Changes": [
+        // Cocoa Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\mildkewy.foodstarter\\CocoaSapling",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-mildkewy-food-starter.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Mildkewy Food Starter": "true"
+            }
+        },
+        // Lemon Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\mildkewy.foodstarter\\LemonSapling",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-mildkewy-food-starter.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Mildkewy Food Starter": "true"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+// ITEM COUNT: 2
+{
+    "Changes": [
+        // Coconut Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.GrowableForage/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-forage.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Cornucopia Forage": "true"
+            }
+        },
+        // Hazelnut Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.GrowableForage/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-forage.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Cornucopia Forage": "true"
+            }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+// ITEM COUNT: 4
+{
+    "Changes": [
+        // Money Tree Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\FlashShifter.StardewValleyExpandedCP\\Tree Coin",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-stardew-valley-expanded.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Stardew Valley Expanded": "true"
+            }
+        },
+        // Nectarine Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\FlashShifter.StardewValleyExpandedCP\\Nectarine Sapling",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-stardew-valley-expanded.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Stardew Valley Expanded": "true"
+            }
+        },
+        // Pear Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\FlashShifter.StardewValleyExpandedCP\\Pear Sapling",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-stardew-valley-expanded.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Stardew Valley Expanded": "true"
+            }
+        },
+        // Persimmon Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\FlashShifter.StardewValleyExpandedCP\\Persimmon Sapling",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-stardew-valley-expanded.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Stardew Valley Expanded": "true"
+            }
+        }
+    ]
+}

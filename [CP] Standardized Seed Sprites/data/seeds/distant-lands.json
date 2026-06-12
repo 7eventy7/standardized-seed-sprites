@@ -1,0 +1,53 @@
+// ITEM COUNT: 2
+{
+    "Changes": [
+        // Vile Ancient Fruit Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Aimon111.WitchSwampOverhaulCP\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-distant-lands.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Distant Lands": "true"
+            }
+        },
+        // Void Mint Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Aimon111.WitchSwampOverhaulCP\\Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-distant-lands.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Distant Lands": "true"
+            }
+        }
+    ]
+}

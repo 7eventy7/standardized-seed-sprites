@@ -1,0 +1,131 @@
+// ITEM COUNT: 7
+{
+    "Changes": [
+        // Cherry Tomato Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\SquishyMiqoteMods.CassiesGarden\\CherryTomatoes_seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-tahla-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Tahla Crops": "true"
+            }
+        },
+        // Cucumber Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\SquishyMiqoteMods.CassiesGarden\\Cucumber_seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-tahla-crops.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Tahla Crops": "true"
+            }
+        },
+        // Moss Rose Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\SquishyMiqoteMods.CassiesGarden\\MossRose_seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-tahla-crops.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Tahla Crops": "true"
+            }
+        },
+        // Red Coleus Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\SquishyMiqoteMods.CassiesGarden\\RedColeus_seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-tahla-crops.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Tahla Crops": "true"
+            }
+        },
+        // Snow Pea Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\SquishyMiqoteMods.CassiesGarden\\SnowPeas_seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-tahla-crops.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Tahla Crops": "true"
+            }
+        },
+        // Spaghetti Squash Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\SquishyMiqoteMods.CassiesGarden\\SpaghettiSquash_seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-tahla-crops.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Tahla Crops": "true"
+            }
+        },
+        // Succulent Lupine Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\SquishyMiqoteMods.CassiesGarden\\bluebonnet_seeds",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-tahla-crops.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Tahla Crops": "true"
+            }
+        }
+    ]
+}

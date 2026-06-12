@@ -1,0 +1,345 @@
+// ITEM COUNT: 14
+{
+    "Changes": [
+        // Blackberry Bush Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.GrowableForage/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-forage.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Cornucopia Forage": "true"
+            }
+        },
+        // Blueberry Bush Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-forage.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "HasMod |contains=Cornucopia.GrowableForage": true,
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Cornucopia Forage": "true"
+            }
+        },
+        // Cactus Bush Planter
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-forage.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 160,
+                "Y": 528,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "HasMod |contains=Cornucopia.GrowableForage": true,
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Cornucopia Forage": "true"
+            }
+        },
+        // Chanterelle Bush Planter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.GrowableForage/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-forage.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Cornucopia Forage": "true"
+            }
+        },
+        // Common Mushroom Bush Planter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.GrowableForage/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-forage.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Cornucopia Forage": "true"
+            }
+        },
+        // Crocus Bulb
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.GrowableForage/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-forage.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Cornucopia Forage": "true"
+            }
+        },
+        // Ginger Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.GrowableForage/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-forage.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Cornucopia Forage": "true"
+            }
+        },
+        // Grape Bush Planter
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-forage.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "HasMod |contains=Cornucopia.GrowableForage": true,
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Cornucopia Forage": "true"
+            }
+        },
+        // Holly Bush Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.GrowableForage/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-forage.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Cornucopia Forage": "true"
+            }
+        },
+        // Hops Bush Planter
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-forage.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 224,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "HasMod |contains=Cornucopia.GrowableForage": true,
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Cornucopia Forage": "true"
+            }
+        },
+        // Morel Bush Planter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.GrowableForage/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-forage.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Cornucopia Forage": "true"
+            }
+        },
+        // Salmonberry Bush Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.GrowableForage/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-forage.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Cornucopia Forage": "true"
+            }
+        },
+        // Spring Onion Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.GrowableForage/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-forage.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Cornucopia Forage": "true"
+            }
+        },
+        // Sweet Pea Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.GrowableForage/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-forage.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Cornucopia Forage": "true"
+            }
+        }
+    ]
+}

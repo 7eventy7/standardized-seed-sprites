@@ -1,0 +1,29 @@
+// ITEM COUNT: 1
+{
+    "Changes": [
+        // Carob Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods/skellady.SBVCP/Seeds, Mods/skellady.SBVCP/SeedsVT",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-sunberry-village.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Sunberry Village": "true"
+            }
+        }
+    ]
+}

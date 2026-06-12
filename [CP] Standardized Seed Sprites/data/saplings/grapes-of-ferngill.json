@@ -1,0 +1,53 @@
+// ITEM COUNT: 2
+{
+    "Changes": [
+        // Ancient Titania Grape Starter
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.GrapesofFerngill.CP/ancient",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-grapes-of-ferngill.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Grapes of Ferngill": "true"
+            }
+        },
+        // Titania Grape Starter
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.GrapesofFerngill.CP/common",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-grapes-of-ferngill.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 256,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Grapes of Ferngill": "true"
+            }
+        }
+    ]
+}
