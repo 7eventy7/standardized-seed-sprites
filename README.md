@@ -1,4 +1,4 @@
-![Title-Page](https://github.com/7eventy7/Standardized-Seed-Sprites/assets/75962770/6b7c343a-e51c-4e7c-bc05-3a76e0532cd8)
+<img width="1920" height="1080" alt="Title-Page" src="https://github.com/user-attachments/assets/eba7f03e-5e72-4623-ae53-fe210d23358e" />
 
 
 ![d-information](https://github.com/7eventy7/Standardized-Seed-Sprites/assets/75962770/9ee42555-8ae8-46af-9c4b-27662a3cd7f5)
