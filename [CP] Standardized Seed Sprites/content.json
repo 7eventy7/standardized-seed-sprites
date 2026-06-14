@@ -114,6 +114,11 @@
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
+		"Forage of Ferngill": {
+			"AllowValues": "true, false",
+			"Default": "true",
+			"Section": "Mod Section Toggles"
+		},
 		"Atelier Goods Expansion": {
 			"AllowValues": "true, false",
 			"Default": "true",
@@ -180,6 +185,21 @@
 			"Section":"Mod Section Toggles"
 		},
 		"Sunberry Village": {
+			"AllowValues":"true, false",
+			"Default": "true",
+			"Section":"Mod Section Toggles"
+		},
+		"Vanilla Forage Crops": {
+			"AllowValues":"true, false",
+			"Default": "true",
+			"Section":"Mod Section Toggles"
+		},
+		"Expanded Forage Crops": {
+			"AllowValues":"true, false",
+			"Default": "true",
+			"Section":"Mod Section Toggles"
+		},
+		"Ridgeside Forage Crops": {
 			"AllowValues":"true, false",
 			"Default": "true",
 			"Section":"Mod Section Toggles"
@@ -295,6 +315,15 @@
 			"Action": "Include",
 			"FromFile": "data/saplings/grapes-of-ferngill.json"
 		},
+		// FORAGE OF FERNGILL
+		{
+			"Action": "Include",
+			"FromFile": "data/seeds/forage-of-ferngill.json"
+		},
+		{
+			"Action": "Include",
+			"FromFile": "data/saplings/forage-of-ferngill.json"
+		},
 		// ATELIER GOODS EXPANSION
 		{
 			"Action": "Include",
@@ -387,6 +416,33 @@
 		{
 			"Action": "Include",
 			"FromFile": "data/saplings/sunberry-village.json"
+		},
+		// VANILLA FORAGE CROPS
+		{
+			"Action": "Include",
+			"FromFile": "data/seeds/vanilla-forage-crops.json"
+		},
+		{
+			"Action": "Include",
+			"FromFile": "data/saplings/vanilla-forage-crops.json"
+		},
+		// EXPANDED FORAGE CROPS
+		{
+			"Action": "Include",
+			"FromFile": "data/seeds/expanded-forage-crops.json"
+		},
+		{
+			"Action": "Include",
+			"FromFile": "data/saplings/expanded-forage-crops.json"
+		},
+		// RIDGESIDE FORAGE CROPS
+		{
+			"Action": "Include",
+			"FromFile": "data/seeds/ridgeside-forage-crops.json"
+		},
+		{
+			"Action": "Include",
+			"FromFile": "data/saplings/ridgeside-forage-crops.json"
 		}
 	]
 }

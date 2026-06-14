@@ -118,6 +118,11 @@
         "config.Grapes of Ferngill.values.true": "Abilitato",
         "config.Grapes of Ferngill.values.false": "Disabilitato",
 
+        "config.Forage of Ferngill.name": "Forage of Ferngill",
+        "config.Forage of Ferngill.description": "Attiva/Disattiva tutte le modifiche su Forage of Ferngill.",
+        "config.Forage of Ferngill.values.true": "Abilitato",
+        "config.Forage of Ferngill.values.false": "Disabilitato",
+
         "config.Atelier Goods Expansion.name": "Atelier Goods Expansion",
         "config.Atelier Goods Expansion.description": "Attiva/Disattiva tutte le modifiche su Atelier Goods Expansion.",
         "config.Atelier Goods Expansion.values.true": "Abilitato",
@@ -186,5 +191,20 @@
         "config.Sunberry Village.name": "Sunberry Village",
         "config.Sunberry Village.description": "Attiva/Disattiva tutte le modifiche su Sunberry Village.",
         "config.Sunberry Village.values.true": "Abilitato",
-        "config.Sunberry Village.values.false": "Disabilitato"
+        "config.Sunberry Village.values.false": "Disabilitato",
+
+        "config.Vanilla Forage Crops.name": "Vanilla Forage Crops",
+        "config.Vanilla Forage Crops.description": "Attiva/Disattiva tutte le modifiche su Vanilla Forage Crops.",
+        "config.Vanilla Forage Crops.values.true": "Abilitato",
+        "config.Vanilla Forage Crops.values.false": "Disabilitato",
+
+        "config.Expanded Forage Crops.name": "Expanded Forage Crops",
+        "config.Expanded Forage Crops.description": "Attiva/Disattiva tutte le modifiche su Expanded Forage Crops.",
+        "config.Expanded Forage Crops.values.true": "Abilitato",
+        "config.Expanded Forage Crops.values.false": "Disabilitato",
+
+        "config.Ridgeside Forage Crops.name": "Ridgeside Forage Crops",
+        "config.Ridgeside Forage Crops.description": "Attiva/Disattiva tutte le modifiche su Ridgeside Forage Crops.",
+        "config.Ridgeside Forage Crops.values.true": "Abilitato",
+        "config.Ridgeside Forage Crops.values.false": "Disabilitato"
 }

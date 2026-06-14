@@ -1,0 +1,53 @@
+// ITEM COUNT: 2
+{
+    "Changes": [
+        // Crackle Apple Sapling
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.FruitNutofFerngill.cp/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Wish-Terra Sapling
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.WildFlowersofFerngill.cp/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        }
+    ]
+}

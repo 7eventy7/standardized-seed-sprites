@@ -118,6 +118,11 @@
         "config.Grapes of Ferngill.values.true": "Aktifkan",
         "config.Grapes of Ferngill.values.false": "Nonaktifkan",
 
+        "config.Forage of Ferngill.name": "Forage of Ferngill",
+        "config.Forage of Ferngill.description": "Alihkan status pemuatan semua sprite dari Forage of Ferngill.",
+        "config.Forage of Ferngill.values.true": "Aktifkan",
+        "config.Forage of Ferngill.values.false": "Nonaktifkan",
+
         "config.Atelier Goods Expansion.name": "Atelier Goods Expansion",
         "config.Atelier Goods Expansion.description": "Alihkan status pemuatan semua sprite dari Atelier Goods Expansion.",
         "config.Atelier Goods Expansion.values.true": "Aktifkan",
@@ -186,5 +191,20 @@
         "config.Sunberry Village.name": "Sunberry Village",
         "config.Sunberry Village.description": "Alihkan status pemuatan semua sprite dari Sunberry Village.",
         "config.Sunberry Village.values.true": "Aktifkan",
-        "config.Sunberry Village.values.false": "Nonaktifkan"
+        "config.Sunberry Village.values.false": "Nonaktifkan",
+
+        "config.Vanilla Forage Crops.name": "Vanilla Forage Crops",
+        "config.Vanilla Forage Crops.description": "Alihkan status pemuatan semua sprite dari Vanilla Forage Crops.",
+        "config.Vanilla Forage Crops.values.true": "Aktifkan",
+        "config.Vanilla Forage Crops.values.false": "Nonaktifkan",
+
+        "config.Expanded Forage Crops.name": "Expanded Forage Crops",
+        "config.Expanded Forage Crops.description": "Alihkan status pemuatan semua sprite dari Expanded Forage Crops.",
+        "config.Expanded Forage Crops.values.true": "Aktifkan",
+        "config.Expanded Forage Crops.values.false": "Nonaktifkan",
+
+        "config.Ridgeside Forage Crops.name": "Ridgeside Forage Crops",
+        "config.Ridgeside Forage Crops.description": "Alihkan status pemuatan semua sprite dari Ridgeside Forage Crops.",
+        "config.Ridgeside Forage Crops.values.true": "Aktifkan",
+        "config.Ridgeside Forage Crops.values.false": "Nonaktifkan"
 }

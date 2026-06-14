@@ -118,6 +118,11 @@
         "config.Grapes of Ferngill.values.true": "Etkin",
         "config.Grapes of Ferngill.values.false": "Devre Dışı",
 
+        "config.Forage of Ferngill.name": "Forage of Ferngill",
+        "config.Forage of Ferngill.description": "Forage of Ferngill'den tüm grafiklerin yükleme durumunu değiştirin.",
+        "config.Forage of Ferngill.values.true": "Etkin",
+        "config.Forage of Ferngill.values.false": "Devre Dışı",
+
         "config.Atelier Goods Expansion.name": "Atelier Goods Expansion",
         "config.Atelier Goods Expansion.description": "Atelier Goods Expansion'dan tüm grafiklerin yükleme durumunu değiştirin.",
         "config.Atelier Goods Expansion.values.true": "Etkin",
@@ -186,5 +191,20 @@
         "config.Sunberry Village.name": "Sunberry Village",
         "config.Sunberry Village.description": "Sunberry Village'dan tüm grafiklerin yükleme durumunu değiştirin.",
         "config.Sunberry Village.values.true": "Etkin",
-        "config.Sunberry Village.values.false": "Devre Dışı"
+        "config.Sunberry Village.values.false": "Devre Dışı",
+
+        "config.Vanilla Forage Crops.name": "Vanilla Forage Crops",
+        "config.Vanilla Forage Crops.description": "Vanilla Forage Crops'tan tüm grafiklerin yükleme durumunu değiştirin.",
+        "config.Vanilla Forage Crops.values.true": "Etkin",
+        "config.Vanilla Forage Crops.values.false": "Devre Dışı",
+
+        "config.Expanded Forage Crops.name": "Expanded Forage Crops",
+        "config.Expanded Forage Crops.description": "Expanded Forage Crops'tan tüm grafiklerin yükleme durumunu değiştirin.",
+        "config.Expanded Forage Crops.values.true": "Etkin",
+        "config.Expanded Forage Crops.values.false": "Devre Dışı",
+
+        "config.Ridgeside Forage Crops.name": "Ridgeside Forage Crops",
+        "config.Ridgeside Forage Crops.description": "Ridgeside Forage Crops'tan tüm grafiklerin yükleme durumunu değiştirin.",
+        "config.Ridgeside Forage Crops.values.true": "Etkin",
+        "config.Ridgeside Forage Crops.values.false": "Devre Dışı"
 }

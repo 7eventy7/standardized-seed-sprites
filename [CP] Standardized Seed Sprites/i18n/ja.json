@@ -118,6 +118,11 @@
         "config.Grapes of Ferngill.values.true": "有効",
         "config.Grapes of Ferngill.values.false": "無効",
 
+        "config.Forage of Ferngill.name": "Forage of Ferngill",
+        "config.Forage of Ferngill.description": "Forage of Ferngillのスプライトのデザインを全て変更する。",
+        "config.Forage of Ferngill.values.true": "有効",
+        "config.Forage of Ferngill.values.false": "無効",
+
         "config.Atelier Goods Expansion.name": "Atelier Goods Expansion",
         "config.Atelier Goods Expansion.description": "Atelier Goods Expansionのスプライトのデザインを全て変更する。",
         "config.Atelier Goods Expansion.values.true": "有効",
@@ -186,5 +191,20 @@
         "config.Sunberry Village.name": "Sunberry Village",
         "config.Sunberry Village.description": "Sunberry Villageのスプライトのデザインを全て変更する。",
         "config.Sunberry Village.values.true": "有効",
-        "config.Sunberry Village.values.false": "無効"
+        "config.Sunberry Village.values.false": "無効",
+
+        "config.Vanilla Forage Crops.name": "Vanilla Forage Crops",
+        "config.Vanilla Forage Crops.description": "Vanilla Forage Cropsのスプライトのデザインを全て変更する。",
+        "config.Vanilla Forage Crops.values.true": "有効",
+        "config.Vanilla Forage Crops.values.false": "無効",
+
+        "config.Expanded Forage Crops.name": "Expanded Forage Crops",
+        "config.Expanded Forage Crops.description": "Expanded Forage Cropsのスプライトのデザインを全て変更する。",
+        "config.Expanded Forage Crops.values.true": "有効",
+        "config.Expanded Forage Crops.values.false": "無効",
+
+        "config.Ridgeside Forage Crops.name": "Ridgeside Forage Crops",
+        "config.Ridgeside Forage Crops.description": "Ridgeside Forage Cropsのスプライトのデザインを全て変更する。",
+        "config.Ridgeside Forage Crops.values.true": "有効",
+        "config.Ridgeside Forage Crops.values.false": "無効"
 }

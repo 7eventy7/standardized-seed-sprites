@@ -118,6 +118,11 @@
         "config.Grapes of Ferngill.values.true": "Activé",
         "config.Grapes of Ferngill.values.false": "Désactivé",
 
+        "config.Forage of Ferngill.name": "Forage of Ferngill",
+        "config.Forage of Ferngill.description": "Activé/désactive tous les changements sur Forage of Ferngill.",
+        "config.Forage of Ferngill.values.true": "Activé",
+        "config.Forage of Ferngill.values.false": "Désactivé",
+
         "config.Atelier Goods Expansion.name": "Atelier Goods Expansion",
         "config.Atelier Goods Expansion.description": "Activé/désactive tous les changements sur Atelier Goods Expansion.",
         "config.Atelier Goods Expansion.values.true": "Activé",
@@ -186,5 +191,20 @@
         "config.Sunberry Village.name": "Sunberry Village",
         "config.Sunberry Village.description": "Activé/désactive tous les changements sur Sunberry Village.",
         "config.Sunberry Village.values.true": "Activé",
-        "config.Sunberry Village.values.false": "Désactivé"
+        "config.Sunberry Village.values.false": "Désactivé",
+
+        "config.Vanilla Forage Crops.name": "Vanilla Forage Crops",
+        "config.Vanilla Forage Crops.description": "Activé/désactive tous les changements sur Vanilla Forage Crops.",
+        "config.Vanilla Forage Crops.values.true": "Activé",
+        "config.Vanilla Forage Crops.values.false": "Désactivé",
+
+        "config.Expanded Forage Crops.name": "Expanded Forage Crops",
+        "config.Expanded Forage Crops.description": "Activé/désactive tous les changements sur Expanded Forage Crops.",
+        "config.Expanded Forage Crops.values.true": "Activé",
+        "config.Expanded Forage Crops.values.false": "Désactivé",
+
+        "config.Ridgeside Forage Crops.name": "Ridgeside Forage Crops",
+        "config.Ridgeside Forage Crops.description": "Activé/désactive tous les changements sur Ridgeside Forage Crops.",
+        "config.Ridgeside Forage Crops.values.true": "Activé",
+        "config.Ridgeside Forage Crops.values.false": "Désactivé"
 }

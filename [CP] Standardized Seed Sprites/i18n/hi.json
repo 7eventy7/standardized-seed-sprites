@@ -118,6 +118,11 @@
         "config.Grapes of Ferngill.values.true": "चालू करो",
         "config.Grapes of Ferngill.values.false": "बंद करें",
 
+        "config.Forage of Ferngill.name": "Forage of Ferngill",
+        "config.Forage of Ferngill.description": "'फोरेज ऑफ़ फर्नगिल' से सभी स्प्राइट्स की लोडिंग स्थिति बदलने के लिए।",
+        "config.Forage of Ferngill.values.true": "चालू करो",
+        "config.Forage of Ferngill.values.false": "बंद करें",
+
         "config.Atelier Goods Expansion.name": "Atelier Goods Expansion",
         "config.Atelier Goods Expansion.description": "'एटेलियर गुड्स एक्सपैंशन' से सभी स्प्राइट्स की लोडिंग स्थिति को बदलने के लिए।",
         "config.Atelier Goods Expansion.values.true": "चालू करो",
@@ -186,5 +191,20 @@
         "config.Sunberry Village.name": "Sunberry Village",
         "config.Sunberry Village.description": "'सनबेरी विलेज' से सभी स्प्राइट्स की लोडिंग स्थिति बदलने के लिए।",
         "config.Sunberry Village.values.true": "चालू करो",
-        "config.Sunberry Village.values.false": "बंद करें"
+        "config.Sunberry Village.values.false": "बंद करें",
+
+        "config.Vanilla Forage Crops.name": "Vanilla Forage Crops",
+        "config.Vanilla Forage Crops.description": "'वनीला फोरेज क्रॉप्स' से सभी स्प्राइट्स की लोडिंग स्थिति बदलने के लिए।",
+        "config.Vanilla Forage Crops.values.true": "चालू करो",
+        "config.Vanilla Forage Crops.values.false": "बंद करें",
+
+        "config.Expanded Forage Crops.name": "Expanded Forage Crops",
+        "config.Expanded Forage Crops.description": "'एक्सपैंडेड फोरेज क्रॉप्स' से सभी स्प्राइट्स की लोडिंग स्थिति बदलने के लिए।",
+        "config.Expanded Forage Crops.values.true": "चालू करो",
+        "config.Expanded Forage Crops.values.false": "बंद करें",
+
+        "config.Ridgeside Forage Crops.name": "Ridgeside Forage Crops",
+        "config.Ridgeside Forage Crops.description": "'रिजसाइड फोरेज क्रॉप्स' से सभी स्प्राइट्स की लोडिंग स्थिति बदलने के लिए।",
+        "config.Ridgeside Forage Crops.values.true": "चालू करो",
+        "config.Ridgeside Forage Crops.values.false": "बंद करें"
 }

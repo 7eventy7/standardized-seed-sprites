@@ -1,0 +1,101 @@
+// ITEM COUNT: 4
+{
+    "Changes": [
+        // Mountain Chico Sapling
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        },
+        // Ridge Cherry Sapling
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        },
+        // Ridge Wild Apple Sapling
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        },
+        // Ridgeside Clementine Sapling
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        }
+    ]
+}

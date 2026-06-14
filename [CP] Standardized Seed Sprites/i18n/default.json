@@ -118,6 +118,11 @@
         "config.Grapes of Ferngill.values.true": "Enabled",
         "config.Grapes of Ferngill.values.false": "Disabled",
 
+        "config.Forage of Ferngill.name": "Forage of Ferngill",
+        "config.Forage of Ferngill.description": "Toggle the loading status of all sprites from Forage of Ferngill.",
+        "config.Forage of Ferngill.values.true": "Enabled",
+        "config.Forage of Ferngill.values.false": "Disabled",
+
         "config.Atelier Goods Expansion.name": "Atelier Goods Expansion",
         "config.Atelier Goods Expansion.description": "Toggle the loading status of all sprites from Atelier Goods Expansion.",
         "config.Atelier Goods Expansion.values.true": "Enabled",
@@ -186,5 +191,20 @@
         "config.Sunberry Village.name": "Sunberry Village",
         "config.Sunberry Village.description": "Toggle the loading status of all sprites from Sunberry Village.",
         "config.Sunberry Village.values.true": "Enabled",
-        "config.Sunberry Village.values.false": "Disabled"
+        "config.Sunberry Village.values.false": "Disabled",
+
+        "config.Vanilla Forage Crops.name": "Vanilla Forage Crops",
+        "config.Vanilla Forage Crops.description": "Toggle the loading status of all sprites from Vanilla Forage Crops.",
+        "config.Vanilla Forage Crops.values.true": "Enabled",
+        "config.Vanilla Forage Crops.values.false": "Disabled",
+
+        "config.Expanded Forage Crops.name": "Expanded Forage Crops",
+        "config.Expanded Forage Crops.description": "Toggle the loading status of all sprites from Expanded Forage Crops.",
+        "config.Expanded Forage Crops.values.true": "Enabled",
+        "config.Expanded Forage Crops.values.false": "Disabled",
+
+        "config.Ridgeside Forage Crops.name": "Ridgeside Forage Crops",
+        "config.Ridgeside Forage Crops.description": "Toggle the loading status of all sprites from Ridgeside Forage Crops.",
+        "config.Ridgeside Forage Crops.values.true": "Enabled",
+        "config.Ridgeside Forage Crops.values.false": "Disabled"
 }

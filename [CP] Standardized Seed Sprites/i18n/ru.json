@@ -118,6 +118,11 @@
         "config.Grapes of Ferngill.values.true": "Включено",
         "config.Grapes of Ferngill.values.false": "Выключено",
 
+        "config.Forage of Ferngill.name": "Forage of Ferngill",
+        "config.Forage of Ferngill.description": "Включает/выключает все изменения в Forage of Ferngill.",
+        "config.Forage of Ferngill.values.true": "Включено",
+        "config.Forage of Ferngill.values.false": "Выключено",
+
         "config.Atelier Goods Expansion.name": "Atelier Goods Expansion",
         "config.Atelier Goods Expansion.description": "Включает/выключает все изменения в Atelier Goods Expansion.",
         "config.Atelier Goods Expansion.values.true": "Включено",
@@ -186,5 +191,20 @@
         "config.Sunberry Village.name": "Sunberry Village",
         "config.Sunberry Village.description": "Включает/выключает все изменения в Sunberry Village.",
         "config.Sunberry Village.values.true": "Включено",
-        "config.Sunberry Village.values.false": "Выключено"
+        "config.Sunberry Village.values.false": "Выключено",
+
+        "config.Vanilla Forage Crops.name": "Vanilla Forage Crops",
+        "config.Vanilla Forage Crops.description": "Включает/выключает все изменения в Vanilla Forage Crops.",
+        "config.Vanilla Forage Crops.values.true": "Включено",
+        "config.Vanilla Forage Crops.values.false": "Выключено",
+
+        "config.Expanded Forage Crops.name": "Expanded Forage Crops",
+        "config.Expanded Forage Crops.description": "Включает/выключает все изменения в Expanded Forage Crops.",
+        "config.Expanded Forage Crops.values.true": "Включено",
+        "config.Expanded Forage Crops.values.false": "Выключено",
+
+        "config.Ridgeside Forage Crops.name": "Ridgeside Forage Crops",
+        "config.Ridgeside Forage Crops.description": "Включает/выключает все изменения в Ridgeside Forage Crops.",
+        "config.Ridgeside Forage Crops.values.true": "Включено",
+        "config.Ridgeside Forage Crops.values.false": "Выключено"
 }

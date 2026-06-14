@@ -1,0 +1,369 @@
+// ITEM COUNT: 15
+{
+    "Changes": [
+        // Bearberry Sapling
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.SVEForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-expanded-forage-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "Expanded Forage Crops": "true"
+            }
+        },
+        // Dewdrop Sapling
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.SVEForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-expanded-forage-crops.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "Expanded Forage Crops": "true"
+            }
+        },
+        // Diamond Flower Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.SVEForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-expanded-forage-crops.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Expanded Forage Crops": "true"
+            }
+        },
+        // Ferngill Primrose Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.SVEForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-expanded-forage-crops.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Expanded Forage Crops": "true"
+            }
+        },
+        // Ferngill Rafflesia Cutting
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.SVEForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-expanded-forage-crops.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Expanded Forage Crops": "true"
+            }
+        },
+        // Four Leaf Clover Planter
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.SVEForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-expanded-forage-crops.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Expanded Forage Crops": "true"
+            }
+        },
+        // Golden Ocean Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.SVEForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-expanded-forage-crops.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Expanded Forage Crops": "true"
+            }
+        },
+        // Goldenrod Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.SVEForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-expanded-forage-crops.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Expanded Forage Crops": "true"
+            }
+        },
+        // Mega Purple Mushroom Planter
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.SVEForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-expanded-forage-crops.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Expanded Forage Crops": "true"
+            }
+        },
+        // Mushroom Colony Spawn
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.SVEForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-expanded-forage-crops.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Expanded Forage Crops": "true"
+            }
+        },
+        // Poison Mushroom Spawn
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.SVEForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-expanded-forage-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Expanded Forage Crops": "true"
+            }
+        },
+        // Red Baneberry Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.SVEForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-expanded-forage-crops.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Expanded Forage Crops": "true"
+            }
+        },
+        // Swamp Flower Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.SVEForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-expanded-forage-crops.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Expanded Forage Crops": "true"
+            }
+        },
+        // Thistle Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.SVEForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-expanded-forage-crops.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Expanded Forage Crops": "true"
+            }
+        },
+        // Winter Star Rose Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.SVEForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-expanded-forage-crops.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Expanded Forage Crops": "true"
+            }
+        }
+    ]
+}

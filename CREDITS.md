@@ -150,4 +150,7 @@ All the wonderful individuals that helped contribute to this mod in some way!
 > **Swedish / Svenska**  
 ➤ elieeleye
 
+> **Thai / ภาษาไทย**  
+➤ Gruntalope
+
 ---

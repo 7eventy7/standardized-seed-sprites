@@ -1,0 +1,456 @@
+// ITEM COUNT: 19
+{
+    "Changes": [
+        // Bardic Root Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.RootsofFerngill.cp/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Blushing-Dawn Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.WildFlowersofFerngill.cp/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 176,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Bon Bons Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.WildFlowersofFerngill.cp/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 128,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Bright-Sides Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.WildFlowersofFerngill.cp/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 176,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Buckle-Bray Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.WildFlowersofFerngill.cp/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 128,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Buttered-Bell Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.WildFlowersofFerngill.cp/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 128,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Calico-Blaze Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.WildFlowersofFerngill.cp/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 144,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Chill-Bell Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.WildFlowersofFerngill.cp/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 144,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Daye-Breaks Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.WildFlowersofFerngill.cp/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 144,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Ferngill Wildflower Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.WildFlowersofFerngill.IE/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Mixed Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Fox-Shoes Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.WildFlowersofFerngill.cp/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Gaelic Root Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.RootsofFerngill.cp/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Lola-Bloom Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.WildFlowersofFerngill.cp/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Luck-Puff Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.WildFlowersofFerngill.cp/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Night-Shadow Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.WildFlowersofFerngill.cp/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Ridge-Riser Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.WildFlowersofFerngill.cp/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Sabi Root Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.RootsofFerngill.cp/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Shifter-Bloom Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.WildFlowersofFerngill.cp/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 176,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        },
+        // Spring Onion Seed
+        {
+            "Action": "EditImage",
+            "Target": "StunkyMcDoo.RootsofFerngill.cp/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-forage-of-ferngill.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Forage of Ferngill": "true"
+            }
+        }
+    ]
+}

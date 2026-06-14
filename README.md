@@ -48,7 +48,7 @@ This Stardew Valley mod retextures seeds, starters, and saplings from over twent
 ### **Stardew Valley v1.6.0+ on Linux, Mac, and Windows**
 - Extensively configurable toggles for Generic Mod Config Menu
 
-## 24 Different Mods Currently Supported:
+## 28 Different Mods Currently Supported:
 
 ### **Over 500 Included Sprites::**
 - [Vanilla](https://www.stardewvalley.net/)
@@ -63,6 +63,7 @@ This Stardew Valley mod retextures seeds, starters, and saplings from over twent
 - [Ilucie's Winter Crops](https://www.nexusmods.com/stardewvalley/mods/22575)
 - [Flower Garden 2](https://www.nexusmods.com/stardewvalley/mods/16999)
 - [Grapes of Ferngill](https://www.nexusmods.com/stardewvalley/mods/8684)
+- [Forage of Ferngill](https://www.nexusmods.com/stardewvalley/mods/8828)
 - [Atelier Goods Forager](https://www.nexusmods.com/stardewvalley/mods/22728)
 - [Grains Overhull](https://www.nexusmods.com/stardewvalley/mods/20884)
 - [Uncle Iroh Tea](https://www.nexusmods.com/stardewvalley/mods/22376)
@@ -76,6 +77,9 @@ This Stardew Valley mod retextures seeds, starters, and saplings from over twent
 - [Magical Crops](https://www.nexusmods.com/stardewvalley/mods/8762)
 - [Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/11111)
 - [Lunna Astray](https://www.nexusmods.com/stardewvalley/mods/6626)
+- [Vanilla Forage Crops](https://www.nexusmods.com/stardewvalley/mods/25619)
+- [Expanded Forage Crops](https://www.nexusmods.com/stardewvalley/mods/26731)
+- [Ridgeside Forage Crops](https://www.nexusmods.com/stardewvalley/mods/25788)
 
 ---
 
@@ -102,6 +106,7 @@ Additionally Supported Languages:
 - Polish / Polski
 - Indonesian / Bahasa Indonesia
 - Hindi / हिंदी
+- Thai / ภาษาไทย
 
 ---
 

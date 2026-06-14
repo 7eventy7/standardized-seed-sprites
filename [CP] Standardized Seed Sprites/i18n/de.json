@@ -118,6 +118,11 @@
         "config.Grapes of Ferngill.values.true": "Aktiviert",
         "config.Grapes of Ferngill.values.false": "Deaktiviert",
 
+        "config.Forage of Ferngill.name": "Forage of Ferngill",
+        "config.Forage of Ferngill.description": "Schaltet alle Änderungen in Forage of Ferngill ein/aus.",
+        "config.Forage of Ferngill.values.true": "Aktiviert",
+        "config.Forage of Ferngill.values.false": "Deaktiviert",
+
         "config.Atelier Goods Expansion.name": "Atelier Goods Expansion",
         "config.Atelier Goods Expansion.description": "Schaltet alle Änderungen in Atelier Goods Expansion ein/aus.",
         "config.Atelier Goods Expansion.values.true": "Aktiviert",
@@ -186,5 +191,20 @@
         "config.Sunberry Village.name": "Sunberry Village",
         "config.Sunberry Village.description": "Schaltet alle Änderungen in Sunberry Village ein/aus.",
         "config.Sunberry Village.values.true": "Aktiviert",
-        "config.Sunberry Village.values.false": "Deaktiviert"
+        "config.Sunberry Village.values.false": "Deaktiviert",
+
+        "config.Vanilla Forage Crops.name": "Vanilla Forage Crops",
+        "config.Vanilla Forage Crops.description": "Schaltet alle Änderungen in Vanilla Forage Crops ein/aus.",
+        "config.Vanilla Forage Crops.values.true": "Aktiviert",
+        "config.Vanilla Forage Crops.values.false": "Deaktiviert",
+
+        "config.Expanded Forage Crops.name": "Expanded Forage Crops",
+        "config.Expanded Forage Crops.description": "Schaltet alle Änderungen in Expanded Forage Crops ein/aus.",
+        "config.Expanded Forage Crops.values.true": "Aktiviert",
+        "config.Expanded Forage Crops.values.false": "Deaktiviert",
+
+        "config.Ridgeside Forage Crops.name": "Ridgeside Forage Crops",
+        "config.Ridgeside Forage Crops.description": "Schaltet alle Änderungen in Ridgeside Forage Crops ein/aus.",
+        "config.Ridgeside Forage Crops.values.true": "Aktiviert",
+        "config.Ridgeside Forage Crops.values.false": "Deaktiviert"
 }

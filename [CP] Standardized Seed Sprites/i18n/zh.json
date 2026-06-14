@@ -118,6 +118,11 @@
         "config.Grapes of Ferngill.values.true": "启用",
         "config.Grapes of Ferngill.values.false": "禁用",
 
+        "config.Forage of Ferngill.name": "Forage of Ferngill",
+        "config.Forage of Ferngill.description": "切换所有Forage of Ferngill种子图标的装载状态。",
+        "config.Forage of Ferngill.values.true": "启用",
+        "config.Forage of Ferngill.values.false": "禁用",
+
         "config.Atelier Goods Expansion.name": "Atelier Goods Expansion",
         "config.Atelier Goods Expansion.description": "切换所有Atelier Goods Expansion种子图标的装载状态。",
         "config.Atelier Goods Expansion.values.true": "启用",
@@ -186,5 +191,20 @@
         "config.Sunberry Village.name": "Sunberry Village",
         "config.Sunberry Village.description": "切换所有Sunberry Village种子图标的装载状态。",
         "config.Sunberry Village.values.true": "启用",
-        "config.Sunberry Village.values.false": "禁用"
+        "config.Sunberry Village.values.false": "禁用",
+
+        "config.Vanilla Forage Crops.name": "Vanilla Forage Crops",
+        "config.Vanilla Forage Crops.description": "切换所有Vanilla Forage Crops种子图标的装载状态。",
+        "config.Vanilla Forage Crops.values.true": "启用",
+        "config.Vanilla Forage Crops.values.false": "禁用",
+
+        "config.Expanded Forage Crops.name": "Expanded Forage Crops",
+        "config.Expanded Forage Crops.description": "切换所有Expanded Forage Crops种子图标的装载状态。",
+        "config.Expanded Forage Crops.values.true": "启用",
+        "config.Expanded Forage Crops.values.false": "禁用",
+
+        "config.Ridgeside Forage Crops.name": "Ridgeside Forage Crops",
+        "config.Ridgeside Forage Crops.description": "切换所有Ridgeside Forage Crops种子图标的装载状态。",
+        "config.Ridgeside Forage Crops.values.true": "启用",
+        "config.Ridgeside Forage Crops.values.false": "禁用"
 }

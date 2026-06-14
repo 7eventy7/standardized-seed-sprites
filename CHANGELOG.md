@@ -2,6 +2,21 @@
 
 Check out what has been added or changed from every single version ever released!
 
+## [Version 2.3.1](https://github.com/7eventy7/Standardized-Seed-Sprites/releases/tag/v2.3.1)
+### Added
+- Translations for Thai language
+- Support for "Forage of Ferngill"
+- Support for "Vanilla Forage Crops"
+- Support for "Expanded Forage Crops"
+- Support for "Ridgeside Forage Crops"
+
+### Changed
+- Gigantic 'packgrounds' overhaul featuring improved contrast
+- Translations to include new supported mods
+
+### Removed
+- Several overlapping "trellis" and "bush" sprite icons
+
 ## [Version 2.3.0](https://github.com/7eventy7/Standardized-Seed-Sprites/releases/tag/v2.3.0)
 ### Added
 - New /data directory to split content.json into seperate files per mod

@@ -118,6 +118,11 @@
         "config.Grapes of Ferngill.values.true": "Aktywuj",
         "config.Grapes of Ferngill.values.false": "Dezaktywuj",
 
+        "config.Forage of Ferngill.name": "Forage of Ferngill",
+        "config.Forage of Ferngill.description": "Aktywacja Sprite'ów pochodzących z Forage of Ferngill.",
+        "config.Forage of Ferngill.values.true": "Aktywuj",
+        "config.Forage of Ferngill.values.false": "Dezaktywuj",
+
         "config.Atelier Goods Expansion.name": "Atelier Goods Expansion",
         "config.Atelier Goods Expansion.description": "Aktywacja Sprite'ów pochodzących z Atelier Goods Expansion.",
         "config.Atelier Goods Expansion.values.true": "Aktywuj",
@@ -186,5 +191,20 @@
         "config.Sunberry Village.name": "Sunberry Village",
         "config.Sunberry Village.description": "Aktywacja Sprite'ów pochodzących z Sunberry Village.",
         "config.Sunberry Village.values.true": "Aktywuj",
-        "config.Sunberry Village.values.false": "Dezaktywuj"
+        "config.Sunberry Village.values.false": "Dezaktywuj",
+
+        "config.Vanilla Forage Crops.name": "Vanilla Forage Crops",
+        "config.Vanilla Forage Crops.description": "Aktywacja Sprite'ów pochodzących z Vanilla Forage Crops.",
+        "config.Vanilla Forage Crops.values.true": "Aktywuj",
+        "config.Vanilla Forage Crops.values.false": "Dezaktywuj",
+
+        "config.Expanded Forage Crops.name": "Expanded Forage Crops",
+        "config.Expanded Forage Crops.description": "Aktywacja Sprite'ów pochodzących z Expanded Forage Crops.",
+        "config.Expanded Forage Crops.values.true": "Aktywuj",
+        "config.Expanded Forage Crops.values.false": "Dezaktywuj",
+
+        "config.Ridgeside Forage Crops.name": "Ridgeside Forage Crops",
+        "config.Ridgeside Forage Crops.description": "Aktywacja Sprite'ów pochodzących z Ridgeside Forage Crops.",
+        "config.Ridgeside Forage Crops.values.true": "Aktywuj",
+        "config.Ridgeside Forage Crops.values.false": "Dezaktywuj"
 }

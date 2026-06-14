@@ -1,0 +1,368 @@
+// ITEM COUNT: 15
+{
+    "Changes": [
+        // Aurorean Iris Bulb
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        },
+        // Autumn Drop Berry Planter
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        },
+        // Forest Amancay Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        },
+        // Frost Clump Berry Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        },
+        // Highland Butterwort Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        },
+        // Highland Chard Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        },
+        // Lava Lily Bulb
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        },
+        // Mountain Argula Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        },
+        // Mountain Hokkaido Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        },
+        // Mountain Mistbloom Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        },
+        // Ridge Azorean Flower Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        },
+        // Ridgesheed Monkshood Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        },
+        // Sierra Wintergreen Sapling
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        },
+        // Summit Snowbell Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        },
+        // Violet Devil's Claw Seed
+        {
+            "Action": "EditImage",
+            "Target": "ZoeyHoshi.RSVForageCrops/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-ridgeside-forage-crops.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Ridgeside Forage Crops": "true"
+            }
+        }
+    ]
+}

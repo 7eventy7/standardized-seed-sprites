@@ -1,0 +1,210 @@
+{
+    // CONFIG OPTIONS
+        "config.Seed Packet Variant.name": "รูปแบบซองเมล็ดพันธุ์",
+        "config.Seed Packet Variant.description": "ตั้งค่ารูปแบบซองสำหรับสไปรต์เมล็ดพันธุ์ทั้งหมด\nดูภาพอ้างอิงได้ที่หน้าม็อด",
+        "config.Seed Packet Variant.values.(1) Sensible Sleeves": "(1) Sensible Sleeves",
+        "config.Seed Packet Variant.values.(2) Seasonal Sleeves": "(2) Seasonal Sleeves",
+        "config.Seed Packet Variant.values.(3) Sensible Satchels": "(3) Sensible Satchels",
+        "config.Seed Packet Variant.values.(4) Seasonal Satchels": "(4) Seasonal Satchels",
+        "config.Seed Packet Variant.values.(5) Sensible Stashes": "(5) Sensible Stashes",
+        "config.Seed Packet Variant.values.(6) Seasonal Stashes": "(6) Seasonal Stashes",
+
+        "config.Sapling Sack Color.name": "สีถุงต้นกล้า",
+        "config.Sapling Sack Color.description": "ตั้งค่าสีถุงสำหรับสไปรต์ต้นกล้าทั้งหมด\nดูภาพอ้างอิงได้ที่หน้าม็อด",
+        "config.Sapling Sack Color.values.(1) Cloud": "(1) Cloud",
+        "config.Sapling Sack Color.values.(2) Cream": "(2) Cream",
+        "config.Sapling Sack Color.values.(3) Chest": "(3) Chest",
+        "config.Sapling Sack Color.values.(4) Crypt": "(4) Crypt",
+
+    // GLOBAL TOGGLES
+        "config.= Disable Entire Mod.name": "= ปิดใช้งานม็อดทั้งหมด",
+        "config.= Disable Entire Mod.description": "เปิด/ปิดการใช้งานม็อดทั้งหมด",
+        "config.= Disable Entire Mod.values.true": "เปิดใช้งาน",
+        "config.= Disable Entire Mod.values.false": "ปิดใช้งาน",
+
+        "config.Seed Sprites.name": "สไปรต์เมล็ดพันธุ์",
+        "config.Seed Sprites.description": "เปิด/ปิดการโหลดสไปรต์เมล็ดพันธุ์",
+        "config.Seed Sprites.values.Enabled": "เปิดใช้งาน",
+        "config.Seed Sprites.values.Disabled": "ปิดใช้งาน",
+
+        "config.Sapling Sprites.name": "สไปรต์ต้นกล้า",
+        "config.Sapling Sprites.description": "เปิด/ปิดการโหลดสไปรต์ต้นกล้า",
+        "config.Sapling Sprites.values.Enabled": "เปิดใช้งาน",
+        "config.Sapling Sprites.values.Disabled": "ปิดใช้งาน",
+
+        "config.Bush Sprites.name": "สไปรต์พุ่มไม้",
+        "config.Bush Sprites.description": "เปิด/ปิดการโหลดสไปรต์พุ่มไม้แบบกำหนดเอง",
+        "config.Bush Sprites.values.Enabled": "เปิดใช้งาน",
+        "config.Bush Sprites.values.Disabled": "ปิดใช้งาน",
+
+        "config.Trellis Sprites.name": "สไปรต์ค้างปีน",
+        "config.Trellis Sprites.description": "เปิด/ปิดการโหลดสไปรต์ค้างปีนแบบกำหนดเอง",
+        "config.Trellis Sprites.values.Enabled": "เปิดใช้งาน",
+        "config.Trellis Sprites.values.Disabled": "ปิดใช้งาน",
+
+        "config.Tea Sapling Sprites.name": "สไปรต์ต้นกล้าชา",
+        "config.Tea Sapling Sprites.description": "เปิด/ปิดการโหลดสไปรต์ต้นกล้าชา",
+        "config.Tea Sapling Sprites.values.Enabled": "เปิดใช้งาน",
+        "config.Tea Sapling Sprites.values.Disabled": "ปิดใช้งาน",
+
+        "config.Mixed Seed Sprites.name": "สไปรต์เมล็ดพันธุ์ผสม",
+        "config.Mixed Seed Sprites.description": "เปิด/ปิดการโหลดสไปรต์เมล็ดพันธุ์ผสม",
+        "config.Mixed Seed Sprites.values.Enabled": "เปิดใช้งาน",
+        "config.Mixed Seed Sprites.values.Disabled": "ปิดใช้งาน",
+
+        "config.Harvest Seed Sprites.name": "สไปรต์เมล็ดพันธุ์เก็บเกี่ยว",
+        "config.Harvest Seed Sprites.description": "เปิด/ปิดการโหลดสไปรต์เมล็ดพันธุ์เก็บเกี่ยว",
+        "config.Harvest Seed Sprites.values.Enabled": "เปิดใช้งาน",
+        "config.Harvest Seed Sprites.values.Disabled": "ปิดใช้งาน",
+
+    // MOD SECTION TOGGLES
+        "config.Vanilla.name": "Vanilla",
+        "config.Vanilla.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจากเกมพื้นฐาน",
+        "config.Vanilla.values.true": "เปิดใช้งาน",
+        "config.Vanilla.values.false": "ปิดใช้งาน",
+
+        "config.Stardew Valley Expanded.name": "Stardew Valley Expanded",
+        "config.Stardew Valley Expanded.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Stardew Valley Expanded",
+        "config.Stardew Valley Expanded.values.true": "เปิดใช้งาน",
+        "config.Stardew Valley Expanded.values.false": "ปิดใช้งาน",
+
+        "config.East Scarp.name": "East Scarp",
+        "config.East Scarp.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก East Scarp",
+        "config.East Scarp.values.true": "เปิดใช้งาน",
+        "config.East Scarp.values.false": "ปิดใช้งาน",
+
+        "config.Visit Mount Vapius.name": "Visit Mount Vapius",
+        "config.Visit Mount Vapius.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Visit Mount Vapius",
+        "config.Visit Mount Vapius.values.true": "เปิดใช้งาน",
+        "config.Visit Mount Vapius.values.false": "ปิดใช้งาน",
+
+        "config.Serene Meadow.name": "Serene Meadow",
+        "config.Serene Meadow.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Serene Meadow",
+        "config.Serene Meadow.values.true": "เปิดใช้งาน",
+        "config.Serene Meadow.values.false": "ปิดใช้งาน",
+
+        "config.Cornucopia Forage.name": "Cornucopia Forage",
+        "config.Cornucopia Forage.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Cornucopia Forage",
+        "config.Cornucopia Forage.values.true": "เปิดใช้งาน",
+        "config.Cornucopia Forage.values.false": "ปิดใช้งาน",
+
+        "config.Cornucopia Crops.name": "Cornucopia Crops",
+        "config.Cornucopia Crops.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Cornucopia Crops",
+        "config.Cornucopia Crops.values.true": "เปิดใช้งาน",
+        "config.Cornucopia Crops.values.false": "ปิดใช้งาน",
+
+        "config.Cornucopia Herbs.name": "Cornucopia Herbs",
+        "config.Cornucopia Herbs.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Cornucopia Herbs",
+        "config.Cornucopia Herbs.values.true": "เปิดใช้งาน",
+        "config.Cornucopia Herbs.values.false": "ปิดใช้งาน",
+
+        "config.Cornucopia Flowers.name": "Cornucopia Flowers",
+        "config.Cornucopia Flowers.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Cornucopia Flowers",
+        "config.Cornucopia Flowers.values.true": "เปิดใช้งาน",
+        "config.Cornucopia Flowers.values.false": "ปิดใช้งาน",
+
+        "config.Ilucie Winter Crops.name": "Ilucie Winter Crops",
+        "config.Ilucie Winter Crops.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Ilucie Winter Crops",
+        "config.Ilucie Winter Crops.values.true": "เปิดใช้งาน",
+        "config.Ilucie Winter Crops.values.false": "ปิดใช้งาน",
+
+        "config.Flower Garden 2.name": "Flower Garden 2",
+        "config.Flower Garden 2.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Flower Garden 2",
+        "config.Flower Garden 2.values.true": "เปิดใช้งาน",
+        "config.Flower Garden 2.values.false": "ปิดใช้งาน",
+
+        "config.Grapes of Ferngill.name": "Grapes of Ferngill",
+        "config.Grapes of Ferngill.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Grapes of Ferngill",
+        "config.Grapes of Ferngill.values.true": "เปิดใช้งาน",
+        "config.Grapes of Ferngill.values.false": "ปิดใช้งาน",
+
+        "config.Forage of Ferngill.name": "Forage of Ferngill",
+        "config.Forage of Ferngill.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Forage of Ferngill",
+        "config.Forage of Ferngill.values.true": "เปิดใช้งาน",
+        "config.Forage of Ferngill.values.false": "ปิดใช้งาน",
+
+        "config.Atelier Goods Expansion.name": "Atelier Goods Expansion",
+        "config.Atelier Goods Expansion.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Atelier Goods Expansion",
+        "config.Atelier Goods Expansion.values.true": "เปิดใช้งาน",
+        "config.Atelier Goods Expansion.values.false": "ปิดใช้งาน",
+
+        "config.Grains Overhull.name": "Grains Overhull",
+        "config.Grains Overhull.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Grains Overhull",
+        "config.Grains Overhull.values.true": "เปิดใช้งาน",
+        "config.Grains Overhull.values.false": "ปิดใช้งาน",
+
+        "config.Uncle Iroh Tea.name": "Uncle Iroh Tea",
+        "config.Uncle Iroh Tea.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Uncle Iroh Tea",
+        "config.Uncle Iroh Tea.values.true": "เปิดใช้งาน",
+        "config.Uncle Iroh Tea.values.false": "ปิดใช้งาน",
+
+        "config.Polyamory Sweet.name": "Polyamory Sweet",
+        "config.Polyamory Sweet.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Polyamory Sweet",
+        "config.Polyamory Sweet.values.true": "เปิดใช้งาน",
+        "config.Polyamory Sweet.values.false": "ปิดใช้งาน",
+
+        "config.Ore Crops.name": "Ore Crops",
+        "config.Ore Crops.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Ore Crops",
+        "config.Ore Crops.values.true": "เปิดใช้งาน",
+        "config.Ore Crops.values.false": "ปิดใช้งาน",
+
+        "config.Tahla Crops.name": "Tahla Crops",
+        "config.Tahla Crops.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Tahla Crops",
+        "config.Tahla Crops.values.true": "เปิดใช้งาน",
+        "config.Tahla Crops.values.false": "ปิดใช้งาน",
+
+        "config.Mildkewy Food Starter.name": "Mildkewy Food Starter",
+        "config.Mildkewy Food Starter.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Mildkewy Food Starter",
+        "config.Mildkewy Food Starter.values.true": "เปิดใช้งาน",
+        "config.Mildkewy Food Starter.values.false": "ปิดใช้งาน",
+
+        "config.Tobacco and Hemp.name": "Tobacco and Hemp",
+        "config.Tobacco and Hemp.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Tobacco and Hemp",
+        "config.Tobacco and Hemp.values.true": "เปิดใช้งาน",
+        "config.Tobacco and Hemp.values.false": "ปิดใช้งาน",
+
+        "config.Ridgeside Village.name": "Ridgeside Village",
+        "config.Ridgeside Village.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Ridgeside Village",
+        "config.Ridgeside Village.values.true": "เปิดใช้งาน",
+        "config.Ridgeside Village.values.false": "ปิดใช้งาน",
+
+        "config.Adventurer Guild Expanded.name": "Adventurer Guild Expanded",
+        "config.Adventurer Guild Expanded.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Adventurer Guild Expanded",
+        "config.Adventurer Guild Expanded.values.true": "เปิดใช้งาน",
+        "config.Adventurer Guild Expanded.values.false": "ปิดใช้งาน",
+
+        "config.Distant Lands.name": "Distant Lands",
+        "config.Distant Lands.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Distant Lands",
+        "config.Distant Lands.values.true": "เปิดใช้งาน",
+        "config.Distant Lands.values.false": "ปิดใช้งาน",
+
+        "config.Magical Crops.name": "Magical Crops",
+        "config.Magical Crops.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Magical Crops",
+        "config.Magical Crops.values.true": "เปิดใช้งาน",
+        "config.Magical Crops.values.false": "ปิดใช้งาน",
+
+        "config.Lunna Astray.name": "Lunna Astray",
+        "config.Lunna Astray.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Lunna Astray",
+        "config.Lunna Astray.values.true": "เปิดใช้งาน",
+        "config.Lunna Astray.values.false": "ปิดใช้งาน",
+
+        "config.Sunberry Village.name": "Sunberry Village",
+        "config.Sunberry Village.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Sunberry Village",
+        "config.Sunberry Village.values.true": "เปิดใช้งาน",
+        "config.Sunberry Village.values.false": "ปิดใช้งาน",
+
+        "config.Vanilla Forage Crops.name": "Vanilla Forage Crops",
+        "config.Vanilla Forage Crops.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Vanilla Forage Crops",
+        "config.Vanilla Forage Crops.values.true": "เปิดใช้งาน",
+        "config.Vanilla Forage Crops.values.false": "ปิดใช้งาน",
+
+        "config.Expanded Forage Crops.name": "Expanded Forage Crops",
+        "config.Expanded Forage Crops.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Expanded Forage Crops",
+        "config.Expanded Forage Crops.values.true": "เปิดใช้งาน",
+        "config.Expanded Forage Crops.values.false": "ปิดใช้งาน",
+
+        "config.Ridgeside Forage Crops.name": "Ridgeside Forage Crops",
+        "config.Ridgeside Forage Crops.description": "เปิด/ปิดการโหลดสไปรต์ทั้งหมดจาก Ridgeside Forage Crops",
+        "config.Ridgeside Forage Crops.values.true": "เปิดใช้งาน",
+        "config.Ridgeside Forage Crops.values.false": "ปิดใช้งาน"
+}

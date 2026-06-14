@@ -118,6 +118,11 @@
         "config.Grapes of Ferngill.values.true": "Ativado",
         "config.Grapes of Ferngill.values.false": "Desativado",
 
+        "config.Forage of Ferngill.name": "Forage of Ferngill",
+        "config.Forage of Ferngill.description": "Ligar/Desligar o estado de carregamento de todas as texturas do Forage of Ferngill.",
+        "config.Forage of Ferngill.values.true": "Ativado",
+        "config.Forage of Ferngill.values.false": "Desativado",
+
         "config.Atelier Goods Expansion.name": "Atelier Goods Expansion",
         "config.Atelier Goods Expansion.description": "Ligar/Desligar o estado de carregamento de todas as texturas do Atelier Goods Expansion.",
         "config.Atelier Goods Expansion.values.true": "Ativado",
@@ -186,5 +191,20 @@
         "config.Sunberry Village.name": "Sunberry Village",
         "config.Sunberry Village.description": "Ligar/Desligar o estado de carregamento de todas as texturas do Sunberry Village.",
         "config.Sunberry Village.values.true": "Ativado",
-        "config.Sunberry Village.values.false": "Desativado"
+        "config.Sunberry Village.values.false": "Desativado",
+
+        "config.Vanilla Forage Crops.name": "Vanilla Forage Crops",
+        "config.Vanilla Forage Crops.description": "Ligar/Desligar o estado de carregamento de todas as texturas do Vanilla Forage Crops.",
+        "config.Vanilla Forage Crops.values.true": "Ativado",
+        "config.Vanilla Forage Crops.values.false": "Desativado",
+
+        "config.Expanded Forage Crops.name": "Expanded Forage Crops",
+        "config.Expanded Forage Crops.description": "Ligar/Desligar o estado de carregamento de todas as texturas do Expanded Forage Crops.",
+        "config.Expanded Forage Crops.values.true": "Ativado",
+        "config.Expanded Forage Crops.values.false": "Desativado",
+
+        "config.Ridgeside Forage Crops.name": "Ridgeside Forage Crops",
+        "config.Ridgeside Forage Crops.description": "Ligar/Desligar o estado de carregamento de todas as texturas do Ridgeside Forage Crops.",
+        "config.Ridgeside Forage Crops.values.true": "Ativado",
+        "config.Ridgeside Forage Crops.values.false": "Desativado"
 }

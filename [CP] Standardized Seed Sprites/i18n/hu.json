@@ -118,6 +118,11 @@
         "config.Grapes of Ferngill.values.true": "Bekapcsolva",
         "config.Grapes of Ferngill.values.false": "Kikapcsolva",
 
+        "config.Forage of Ferngill.name": "Forage of Ferngill",
+        "config.Forage of Ferngill.description": "Kapcsold ki vagy be az összes Forage of Ferngill-ből származó ikont.",
+        "config.Forage of Ferngill.values.true": "Bekapcsolva",
+        "config.Forage of Ferngill.values.false": "Kikapcsolva",
+
         "config.Atelier Goods Expansion.name": "Atelier Goods Expansion",
         "config.Atelier Goods Expansion.description": "Kapcsold ki vagy be az összes Atelier Goods Expansion-ből származó ikont.",
         "config.Atelier Goods Expansion.values.true": "Bekapcsolva",
@@ -186,5 +191,20 @@
         "config.Sunberry Village.name": "Sunberry Village",
         "config.Sunberry Village.description": "Kapcsold ki vagy be az összes Sunberry Village-ből származó ikont.",
         "config.Sunberry Village.values.true": "Bekapcsolva",
-        "config.Sunberry Village.values.false": "Kikapcsolva"
+        "config.Sunberry Village.values.false": "Kikapcsolva",
+
+        "config.Vanilla Forage Crops.name": "Vanilla Forage Crops",
+        "config.Vanilla Forage Crops.description": "Kapcsold ki vagy be az összes Vanilla Forage Crops-ból származó ikont.",
+        "config.Vanilla Forage Crops.values.true": "Bekapcsolva",
+        "config.Vanilla Forage Crops.values.false": "Kikapcsolva",
+
+        "config.Expanded Forage Crops.name": "Expanded Forage Crops",
+        "config.Expanded Forage Crops.description": "Kapcsold ki vagy be az összes Expanded Forage Crops-ból származó ikont.",
+        "config.Expanded Forage Crops.values.true": "Bekapcsolva",
+        "config.Expanded Forage Crops.values.false": "Kikapcsolva",
+
+        "config.Ridgeside Forage Crops.name": "Ridgeside Forage Crops",
+        "config.Ridgeside Forage Crops.description": "Kapcsold ki vagy be az összes Ridgeside Forage Crops-ból származó ikont.",
+        "config.Ridgeside Forage Crops.values.true": "Bekapcsolva",
+        "config.Ridgeside Forage Crops.values.false": "Kikapcsolva"
 }
