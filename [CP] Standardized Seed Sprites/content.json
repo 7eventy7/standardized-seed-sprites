@@ -431,10 +431,6 @@
 			"Action": "Include",
 			"FromFile": "data/seeds/expanded-forage-crops.json"
 		},
-		{
-			"Action": "Include",
-			"FromFile": "data/saplings/expanded-forage-crops.json"
-		},
 		// RIDGESIDE FORAGE CROPS
 		{
 			"Action": "Include",
