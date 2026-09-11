@@ -2,6 +2,11 @@
 
 Check out what has been added or changed from every single version ever released!
 
+## [Version 2.3.2](https://github.com/7eventy7/Standardized-Seed-Sprites/releases/tag/v2.3.2)
+
+### Removed
+- Expanded forage crops sapling code
+
 ## [Version 2.3.1](https://github.com/7eventy7/Standardized-Seed-Sprites/releases/tag/v2.3.1)
 ### Added
 - Translations for Thai language
